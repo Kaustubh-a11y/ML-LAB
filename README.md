@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaustubh-a11y/ML-LAB/main/progress.svg" alt="Progress bar" />
+  <img src="https://raw.githubusercontent.com/Kaustubh-a11y/ML-LAB/main/progress.svg" alt="Progress bar"/>
 </p>
 
 ### ✅ Experiments Completed: **9 / 9**
