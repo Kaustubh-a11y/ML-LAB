@@ -1,11 +1,6 @@
 # Machine Learning Lab🚀
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=6C9EFF&center=true&vCenter=true&width=650&lines=Machine+Learning+Lab+✨;Python+%26+Scikit-Learn;9+Experiments+Completed+✅;Status%3A+Completed+🚀" 
-    alt="Typing SVG" 
-  />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue.svg" />
@@ -14,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-progress-bar.vercel.app/api?completed=9&total=9&width=400" 
-    alt="Progress bar" 
-  />
+  <img src="https://raw.githubusercontent.com/Kaustubh-a11y/ML-LAB/main/progress.svg" alt="Progress bar" />
 </p>
 
 ### ✅ Experiments Completed: **9 / 9**
