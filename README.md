@@ -1,8 +1,25 @@
-# Machine Learning Lab Progress 🚀
+# Machine Learning Lab🚀
 
-### 📊 Progress Tracker
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=6C9EFF&center=true&vCenter=true&width=650&lines=Machine+Learning+Lab+✨;Python+%26+Scikit-Learn;9+Experiments+Completed+✅;Status%3A+Completed+🚀" 
+    alt="Typing SVG" 
+  />
+</p>
 
-![Progress](https://progress-bar.dev/100/?title=Completed&width=300)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue.svg" />
+  <img src="https://img.shields.io/badge/Experiments-9%2F9-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Status-Completed-success.svg" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-progress-bar.vercel.app/api?completed=9&total=9&width=400" 
+    alt="Progress bar" 
+  />
+</p>
+
 ### ✅ Experiments Completed: **9 / 9**
 
 ━━━━━━━━━━━━━━━━━━━━━━━
