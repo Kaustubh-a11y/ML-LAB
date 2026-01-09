@@ -27,7 +27,3 @@
 🔹 AIM 9  → K-Means Clustering  
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 **Status:** All experiments successfully completed  
-✨ **Ready for:** Lab record, viva, and submission  
-
